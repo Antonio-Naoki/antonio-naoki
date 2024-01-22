@@ -16,6 +16,9 @@ Soy estudiante de informática, desarrollador de software apasionado por la tecn
 [![C Sharp](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=blue)]()
 
 
+![Texto alternativo](https://www.canva.com/design/DAF6AfzpvOU/9IL5eS7-lmKOdmLeXnmCmw/edit)
+
+
 <!--
 **Antonio-Naoki/antonio-naoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

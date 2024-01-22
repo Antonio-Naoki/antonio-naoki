@@ -16,7 +16,7 @@ Soy estudiante de informática, desarrollador de software apasionado por la tecn
 [![C Sharp](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=blue)]()
 
 
-![Texto alternativo](https://www.aauniv.com/s/blog/wp-content/uploads/2022/03/lenguajes-de-programacion-1024x572.jpeg)
+![representación](https://www.aauniv.com/s/blog/wp-content/uploads/2022/03/lenguajes-de-programacion-1024x572.jpeg)
 
 
 <!--

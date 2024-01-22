@@ -16,7 +16,7 @@ Soy estudiante de informática, desarrollador de software apasionado por la tecn
 [![C Sharp](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=blue)]()
 
 
-![Texto alternativo](https://www.google.com/search?sca_esv=600400644&sxsrf=ACQVn0_8Lrb2wzaK18cyDH2lGkWRHwz5lQ:1705928086420&q=imagenes+de+programaci%C3%B3n&uds=AMwkrPu8-GcE3hnj8o_6h2xac8MEyHO7-YcTULLjcccg1v9OWfsmooIPMwu-LgY9xMQl7mgSBhMWDiT9nfEnc8jTH4NvQd3nOF2x1HUUnFAmAvPk-C88iDxWc6DCVjR-lrpKd2YpYFSHw3YlyBLI1kThOU7NMZ_XfC4-wvh62BbhxscJuCM-jdqByIblBSG10c5YdmDjykOBVs0JSCXT_XZlNKzt4XxPL4QpoJqLKeMcBgM8jv_6-GGmC8Ymur1f48lupJQUuQrp&udm=2&prmd=ivsnbmz&sa=X&ved=2ahUKEwjrtumshfGDAxVCnGoFHc3mB5YQtKgLegQIEhAB&biw=360&bih=612&dpr=2#vhid=pLfGtNGTXg7snM&vssid=mosaic)
+![Texto alternativo](https://www.aauniv.com/s/blog/wp-content/uploads/2022/03/lenguajes-de-programacion-1024x572.jpeg)
 
 
 <!--

@@ -1,6 +1,8 @@
 # Hola 👋, mi nombre es Antonio Morales ✨
 #### Desarrollador de Aplicaciones, informatico
 
+#### Frontend mobile developer
+
 <a href="https://www.linkedin.com/in/antonio-morales-23b781266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://1000marcas.net/wp-content/uploads/2020/01/Logo-Linkedin.png" alt="Logo de LinkedIn" width="100" height="50"></a>
 <br />
 <a href="https://www.instagram.com/antoniomorales2129?igsh=YzljYTk1ODg3Zg=="><img src="https://www.pngkit.com/png/full/163-1633614_instagram-logo-icon-social-media-icon-png-and.png" alt="Logo de Instagram" width="100" height="30"></a>

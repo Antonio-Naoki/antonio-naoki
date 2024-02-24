@@ -1,5 +1,5 @@
 # Hola 👋, mi nombre es Antonio Morales ✨
-#### Desarrollador de Aplicaciones, informatico
+#### Desarrollador de Aplicaciones
 
 #### Frontend mobile developer
 

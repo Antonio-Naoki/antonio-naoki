@@ -7,7 +7,7 @@
 <br />
 <a href="https://www.instagram.com/antoniomorales2129?igsh=YzljYTk1ODg3Zg=="><img src="https://www.pngkit.com/png/full/163-1633614_instagram-logo-icon-social-media-icon-png-and.png" alt="Logo de Instagram" width="100" height="30"></a>
 
-Soy estudiante de informática, desarrollador de software apasionado por la tecnología.
+Soy informático, desarrollador de software apasionado por la tecnología.
 
 ## Tecnologías:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=186A3B)]()

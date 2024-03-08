@@ -20,6 +20,65 @@ Soy informático, desarrollador de software apasionado por la tecnología.
 ![representación](https://www.aauniv.com/s/blog/wp-content/uploads/2022/03/lenguajes-de-programacion-1024x572.jpeg)
 
 
+<hr />
+<h3>Mis últimos posts</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Fecha</th>
+      <th>Título</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        12/12/2022
+      </td>
+      <td>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      </td>
+      <td>
+        <a href="#">Leer</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        12/12/2022
+      </td>
+      <td>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      </td>
+      <td>
+        <a href="#">Leer</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        12/12/2022
+      </td>
+      <td>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      </td>
+      <td>
+        <a href="#">Leer</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        12/12/2022
+      </td>
+      <td>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      </td>
+      <td>
+        <a href="#">Leer</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br />
+
 <!--
 **Antonio-Naoki/antonio-naoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

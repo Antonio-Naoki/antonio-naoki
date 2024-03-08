@@ -15,7 +15,7 @@ Soy informático, desarrollador de software apasionado por la tecnología.
 [![Android Studio](https://img.shields.io/badge/Android_Studio-CB4335?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=78281F)]()
 [![Python](https://img.shields.io/badge/Python-1C2833?style=for-the-badge&logo=python&logoColor=white&labelColor=black)]()
 [![C Sharp](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=blue)]()
-[![SQLServer](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=yellow)]()
+[![SQLServer](https://imgs.search.brave.com/WsdVsshlV-4CqzA6JeQoCr3mlXvXNswU6eyFpuRDMLc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy9taWNyb3NvZnQt/c3FsLXNlcnZlci1s/b2dvLnBuZw)]()
 
 ![representación](https://www.aauniv.com/s/blog/wp-content/uploads/2022/03/lenguajes-de-programacion-1024x572.jpeg)
      

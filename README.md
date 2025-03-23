@@ -1,8 +1,6 @@
 # Hola 👋, mi nombre es Antonio Morales ✨
 #### Frontend Mobile Developer
 
-<a href="https://www.linkedin.com/in/antonio-morales-23b781266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://1000marcas.net/wp-content/uploads/2020/01/Logo-Linkedin.png" alt="Logo de LinkedIn" width="100" height="60"></a>
-<br />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Conéctate%20conmigo)](https://www.linkedin.com/in/antonio-morales-23b781266/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=+58-414-4026495)](https://wa.me/584144026495)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Sígueme%20en%20Instagram)](https://www.instagram.com/antoniomorales2129?igsh=YzljYTk1ODg3Zg==)

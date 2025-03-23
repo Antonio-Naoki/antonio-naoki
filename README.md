@@ -3,15 +3,6 @@
 #### Frontend mobile developer
 
 <a href="https://www.linkedin.com/in/antonio-morales-23b781266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://1000marcas.net/wp-content/uploads/2020/01/Logo-Linkedin.png" alt="Logo de LinkedIn" width="100" height="60"></a>
-<a href="https://www.linkedin.com/in/antonio-morales-23b781266" target="_blank">
-    <img src="https://1000marcas.net/wp-content/uploads/2020/01/Logo-Linkedin.png" alt="Logo de LinkedIn" width="100" height="60">
-</a>
-<a href="https://www.instagram.com/tuperfil" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Logo de Instagram" width="100" height="100">
-</a>
-<br />
-<br />
-<br />
 <br />
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=+58-414-4026495)](https://wa.me/584144026495)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Conéctate%20conmigo)](https://www.linkedin.com/in/antonio-morales-23b781266/)

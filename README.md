@@ -4,14 +4,11 @@
 
 <a href="https://www.linkedin.com/in/antonio-morales-23b781266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://1000marcas.net/wp-content/uploads/2020/01/Logo-Linkedin.png" alt="Logo de LinkedIn" width="100" height="60"></a>
 <br />
-<a href="https://www.instagram.com/antoniomorales2129?igsh=YzljYTk1ODg3Zg==">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Logo de Instagram" width="100" height="60">
-</a>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=Envíame%20un%20mensaje)](https://wa.me/521231234567)
 
 Soy informático, desarrollador de software apasionado por la tecnología.
 
 ## Tecnologías:
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=Envíame%20un%20mensaje)](https://wa.me/521231234567)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=186A3B)]()
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=blue)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=yellow)]()

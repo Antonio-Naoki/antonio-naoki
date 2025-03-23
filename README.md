@@ -5,7 +5,7 @@
 <br />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Conéctate%20conmigo)](https://www.linkedin.com/in/antonio-morales-23b781266/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=+58-414-4026495)](https://wa.me/584144026495)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Sígueme%20en%20Instagram)](https://www.instagram.com/tuperfil)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Sígueme%20en%20Instagram)](https://www.instagram.com/antoniomorales2129?igsh=YzljYTk1ODg3Zg==)
 
 Soy informático, desarrollador de software apasionado por la tecnología.
 

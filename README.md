@@ -18,6 +18,15 @@ Soy informático, desarrollador de software apasionado por la tecnología.
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 ![Linux](https://img.shields.io/badge/Linux-2e4514?style=for-the-badge&logo=linux&labelColor=122200)
 
+---
+
+## **📊 Estadísticas de GitHub**  
+
+![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=Antonio-Naoki&show_icons=true&theme=radical)  
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Naoki&layout=compact&theme=radical)  
+
+---
 
 ![representación](https://www.aauniv.com/s/blog/wp-content/uploads/2022/03/lenguajes-de-programacion-1024x572.jpeg)
      

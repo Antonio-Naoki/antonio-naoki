@@ -22,8 +22,7 @@ Soy informático, desarrollador de software apasionado por la tecnología.
 
 ## **📊 Estadísticas de GitHub**  
 
-![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=Antonio-Naoki&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Naoki&layout=compact&theme=radical)  
+![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=Antonio-Naoki&show_icons=true&theme=radical) ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Naoki&layout=compact&theme=radical)  
 
 ---
 

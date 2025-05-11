@@ -14,7 +14,7 @@ Soy informático, desarrollador de software apasionado por la tecnología.
 [![Android Studio](https://img.shields.io/badge/Android_Studio-CB4335?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=78281F)]()
 [![Python](https://img.shields.io/badge/Python-1C2833?style=for-the-badge&logo=python&logoColor=white&labelColor=black)]()
 [![C Sharp](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=blue)]()
-[![SQLServer](https://img.shields.io/badge/SQL_Server-D35400?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=orange)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 ![Linux](https://img.shields.io/badge/Linux-2e4514?style=for-the-badge&logo=linux&labelColor=122200)
 

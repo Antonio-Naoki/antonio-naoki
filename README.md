@@ -26,7 +26,7 @@ Soy informático, desarrollador de software apasionado por la tecnología.
 
 ---
 
-![representación](https://imgs.search.brave.com/-PuSOooROtoFdT0pLzZNos10ATW6Z_hG7JHPknWWmPw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/Zm90by1ncmF0aXMv/aW1hZ2VuLXByaW1l/ci1wbGFuby1wcm9n/cmFtYWRvci10cmFi/YWphbmRvLXN1LWVz/Y3JpdG9yaW8tb2Zp/Y2luYV8xMDk4LTE4/NzA3LmpwZz9zZW10/PWFpc19oeWJyaWQm/dz03NDA)
+![representación](https://i.postimg.cc/FKhBdxpf/programacion.jpg)
      
 
 <!--

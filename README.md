@@ -26,7 +26,7 @@ Soy informático, desarrollador de software apasionado por la tecnología.
 
 ---
 
-![representación](https:[//www.aauniv.com/s/blog/wp-content/uploads/2022/03/lenguajes-de-programacion-1024x572.jpeg](https://i.postimg.cc/FKhBdxpf/programacion.jpg))
+![representación](https:[//www.aauniv.com/s/blog/wp-content/uploads/2022/03/lenguajes-de-programacion-1024x572.jpeg](https://i.postimg.cc/FKhBdxpf/programacion.jpg)
      
 
 <!--

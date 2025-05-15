@@ -16,6 +16,7 @@ Soy informático, desarrollador de software apasionado por la tecnología.
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 ![Linux](https://img.shields.io/badge/Linux-2e4514?style=for-the-badge&logo=linux&labelColor=122200)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-02569B?style=for-the-badge&logo=openai&logoColor=white&labelColor=blue)]()
 
 ---
 

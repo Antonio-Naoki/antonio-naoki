@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Soy+Antonio+Morales;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Ciberseguridad;%F0%9F%93%9A+Prompt+Engineering;%E2%9C%A8+Creando+el+Futuro" alt="Encabezado animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Soy+Antonio+Morales;%F0%9F%92%BB+Frontend+Developer;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Ciberseguridad;%F0%9F%93%9A+Prompt+Engineering;%E2%9C%A8+Creando+el+Futuro" alt="Encabezado animado" />
 </p>
 
 ---

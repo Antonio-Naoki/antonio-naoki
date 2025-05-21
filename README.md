@@ -1,34 +1,29 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=7A3EFF&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Soy+Antonio+Morales;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Ciberseguridad;%F0%9F%93%9A+Prompt+Engineering;%E2%9C%A8+Creando+el+Futuro" alt="Encabezado animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Soy+Antonio+Morales;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Ciberseguridad;%F0%9F%93%9A+Prompt+Engineering;%E2%9C%A8+Creando+el+Futuro" alt="Encabezado animado" />
 </p>
 
 ---
 
-### 🛠 **Stack Tecnológico**
-
-#### 📱 Mobile Development
+## Tecnologías:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=186A3B)]()
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=blue)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=yellow)]()
 [![Android Studio](https://img.shields.io/badge/Android_Studio-CB4335?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=78281F)]()
-
-#### 🌐 Backend Development
 [![Python](https://img.shields.io/badge/Python-1C2833?style=for-the-badge&logo=python&logoColor=white&labelColor=black)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-
-#### ⚙️ DevOps & Tools
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=yellow)]()
-![Linux](https://img.shields.io/badge/Linux-2e4514?style=for-the-badge&logo=linux&labelColor=122200)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-2e4514?style=for-the-badge&logo=linux&labelColor=122200)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-02569B?style=for-the-badge&logo=openai&logoColor=white&labelColor=blue)]()
 
 ---
 
 ### 📈 **Estadísticas GitHub**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Naoki&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Naoki&layout=compact&langs_count=8&theme=nightowl"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antonio-Naoki&theme=nightowl" alt="Racha GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Naoki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Naoki&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antonio-Naoki&theme=blueberry" alt="Racha GitHub" />
 </div>
 
 ---
@@ -40,5 +35,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Sígueme%20en%20Instagram)](https://www.instagram.com/antoniomorales2129?igsh=YzljYTk1ODg3Zg==)
 
 ---
+
+
+
+
+
 
 

@@ -36,6 +36,13 @@
 
 ---
 
+<center>
+
+### 🚀 **"Más allá del desarrollo: arquitecturas tecnológicas que aceleran la transformación digital"**
+
+</center>
+
+---
 
 
 

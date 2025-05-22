@@ -10,6 +10,7 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=yellow)]()
 [![Android Studio](https://img.shields.io/badge/Android_Studio-CB4335?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=78281F)]()
 [![Python](https://img.shields.io/badge/Python-1C2833?style=for-the-badge&logo=python&logoColor=white&labelColor=black)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)

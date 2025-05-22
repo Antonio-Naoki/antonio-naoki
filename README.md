@@ -12,9 +12,9 @@
 [![Python](https://img.shields.io/badge/Python-1C2833?style=for-the-badge&logo=python&logoColor=white&labelColor=black)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-f7d80f?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=f2bf05)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000&labelColor=36c3d6)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2d57d6)]()
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=bd0280)](https://graphql.org/)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=028be0)
 ![Linux](https://img.shields.io/badge/Linux-2e4514?style=for-the-badge&logo=linux&labelColor=122200)
 [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-02569B?style=for-the-badge&logo=openai&logoColor=white&labelColor=blue)]()
 

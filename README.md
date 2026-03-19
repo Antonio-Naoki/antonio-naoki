@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=220&section=header&text=Antonio%20Morales&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Arquitectura%20de%20Software%20y%20Soluciones%20Digitales&descAlignY=55&descSize=20" alt="Antonio Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=220&section=header&text=Antonio%20Morales&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Desarrollo%20de%20Software%20y%20Soluciones%20Digitales&descAlignY=55&descSize=20" alt="Antonio Header" width="100%"/>
 </div>
 
 <div align="center">
